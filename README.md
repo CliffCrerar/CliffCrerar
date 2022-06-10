@@ -1,5 +1,5 @@
 ## Cliff Crerar
-> Software Engineer
+> Software-DevOps Engineer | Solutions Architect | Cloud Integration Specialist
 
  iCode | __iBuild__ | _iSolve_
 
